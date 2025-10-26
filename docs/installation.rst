@@ -13,14 +13,14 @@ Installation Guide
 Installing the Published Package
 --------------------------------
 
+**Windows users**: First install `Microsoft C++ Build Tools <https://visualstudio.microsoft.com/visual-cpp-build-tools/>`_ (required for compiling certain Python packages).
+
 Option 1: Using uv (recommended)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **1. Install uv**
 
 `uv <https://docs.astral.sh/uv/>`_ is a fast Python package manager.
-
-**Windows users**: First install `Microsoft C++ Build Tools <https://visualstudio.microsoft.com/visual-cpp-build-tools/>`_ (required for compiling certain Python packages).
 
 → `Install uv <https://docs.astral.sh/uv/getting-started/installation/>`_
 
