@@ -13,7 +13,7 @@ Installation Guide
 Installing the Published Package
 --------------------------------
 
-**Windows users**: First install `Microsoft C++ Build Tools <https://visualstudio.microsoft.com/visual-cpp-build-tools/>`_ (required for compiling certain Python packages).
+**Windows users**: First install `Microsoft C++ Build Tools <https://visualstudio.microsoft.com/visual-cpp-build-tools/>`_ if not already installed (required for compiling certain Python packages).
 
 Option 1: Using uv (recommended)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -86,7 +86,7 @@ To work with the latest version on GitHub (for development or contributions):
 
 scXpand uses `uv <https://docs.astral.sh/uv/>`_ for fast, reliable dependency management.
 
-**Windows users**: Before proceeding, install `Microsoft C++ Build Tools <https://visualstudio.microsoft.com/visual-cpp-build-tools/>`_.
+**Windows users**: Before proceeding, install `Microsoft C++ Build Tools <https://visualstudio.microsoft.com/visual-cpp-build-tools/>`_ if not already installed.
 
 Use the provided install scripts:
 
